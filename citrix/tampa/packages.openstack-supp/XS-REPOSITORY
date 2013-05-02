@@ -1,0 +1,4 @@
+<repository originator="xs" name="openstack-supp-tampa-63" product="XenServer" version="63">
+<description>Openstack Supplemental Pack</description>
+<requires originator="xs" name="main" test="eq" product="XenServer" version="6.1.0" />
+</repository>

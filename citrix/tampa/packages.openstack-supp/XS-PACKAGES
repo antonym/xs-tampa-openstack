@@ -1,0 +1,27 @@
+<packages>
+<package label="ruby-libs" type="rpm" size="1691101" md5="4ea92c92109384e180f251ac458a889b">ruby-libs-1.8.5-19.el5_6.1.i386.rpm</package>
+<package label="ruby" type="rpm" size="282087" md5="8e6e073eab9471d4194141f6c9117b42">ruby-1.8.5-19.el5_6.1.i386.rpm</package>
+<package label="ruby-shadow" type="rpm" size="9699" md5="eab7b96670c2fe99be375e806b4323d6">ruby-shadow-1.4.1-7.el5.i386.rpm</package>
+<package label="nscd" type="rpm" size="173540" md5="ebd57c4850aca4beca4db06f0f84e4fb">nscd-2.5-65.el5_7.1.i386.rpm</package>
+<package label="libffi" type="rpm" size="21997" md5="8d2e6b3e27c403852d69c59d56e99fe6">libffi-3.0.5-1.el5.i386.rpm</package>
+<package label="libselinux-ruby" type="rpm" size="61557" md5="a2823515588b780ae11f147355679c64">libselinux-ruby-1.33.4-5.7.el5.i386.rpm</package>
+<package label="augeas-libs" type="rpm" size="281896" md5="b1550f37073dff21dc1f396738aca4e9">augeas-libs-0.7.3-1.el5.i386.rpm</package>
+<package label="ruby-augeas" type="rpm" size="19501" md5="f50c35fe99e34118662cfe9ab8864e56">ruby-augeas-0.3.0-1.el5.i386.rpm</package>
+<package label="nss_ldap" type="rpm" size="1506859" md5="e34fbe7609479235a569d3f230c3a36f">nss_ldap-253-42.el5.i386.rpm</package>
+<package label="sm" type="rpm" size="884103" md5="d74ed29df9357796e8620fec1a4c8095">sm-1.6.10-xs2095.i686.rpm</package>
+<package label="pv" type="rpm" size="38566" md5="8d643a6e4087ab5531b3c461fc55448c">pv-1.1.4-1.el5.rf.i386.rpm</package>
+<package label="openldap-clients" type="rpm" size="223059" md5="2af10d041d1b0075b29649886025916f">openldap-clients-2.3.43-12.el5_7.10.i386.rpm</package>
+<package label="lldpd" type="rpm" size="84219" md5="977998f0e5fdc7d1b9619aa8e09d44b5">lldpd-0.5.5-1.i386.rpm</package>
+<package label="dhcpv6-client" type="rpm" size="126665" md5="4fcd8a337098958d4c8005c066731df6">dhcpv6-client-1.0.10-20.el5.i386.rpm</package>
+<package label="bwm-ng" type="rpm" size="31526" md5="ed895e577e7d889df378ce1a6be5883e">bwm-ng-0.5-2.el5.rf.i386.rpm</package>
+<package label="facter" type="rpm" size="62998" md5="15c51e5a5dec4863ace905d9a1e3dacd">facter-1.5.9-0.4.rc6.el5.noarch.rpm</package>
+<package label="python26-libs" type="rpm" size="682019" md5="1f7a8d49320375bb3f328450e1c4dee5">python26-libs-2.6.5-5.el5.xs1.i386.rpm</package>
+<package label="puppet" type="rpm" size="1104667" md5="311d09dfd1ff45c7c26d14830742b601">puppet-2.7.14-2.el5.noarch.rpm</package>
+<package label="vncterm-login-fix" type="rpm" size="3143" md5="a042f55c315de83702322ec8124a294f">vncterm-login-fix-0.1-1.noarch.rpm</package>
+<package label="sr-rescan-plugin" type="rpm" size="4554" md5="2df450946e0afef6d275539c424c64a8">sr-rescan-plugin-0.4-1.noarch.rpm</package>
+<package label="sm-debuginfo" type="rpm" size="6613" md5="1c277ce60ffe7b6ba943d1c7506699e9">sm-debuginfo-1.6.10-xs2095.i686.rpm</package>
+<package label="python-netaddr" type="rpm" size="210561" md5="a97fb0183116f0c1c6e3ba9684ee1d53">python-netaddr-0.5.2-1.el5.noarch.rpm</package>
+<package label="pvtools-upgrade-watch" type="rpm" size="4865" md5="02950cd828d0834ef8002a12ef6daf97">pvtools-upgrade-watch-1.0-1.noarch.rpm</package>
+<package label="python26" type="rpm" size="6771344" md5="88c522a1c7e77a5e0ffa7b0af8f06dd7">python26-2.6.5-5.el5.i386.rpm</package>
+<package label="incr-backup-plugin" type="rpm" size="23876" md5="f3fe2ddab42bdab7e6a3c0c3df475f23">incr-backup-plugin-0.4-1.noarch.rpm</package>
+</packages>

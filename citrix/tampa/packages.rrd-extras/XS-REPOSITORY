@@ -1,0 +1,3 @@
+<repository build="61806c" memory-requirement-mb="14" name="rrd-extras" originator="xs" product="XenServer" version="6.1.0.1">
+  <description>rrd2csv and more rrdd plugins</description>
+</repository>

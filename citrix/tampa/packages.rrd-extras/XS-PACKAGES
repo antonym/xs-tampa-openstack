@@ -1,0 +1,5 @@
+<packages>
+  <package label="xapi-rrd-devel" md5="d2548d8fb8d0c079194cc71aebc2b419" size="126311" type="rpm">xapi-rrd-devel-0.2-5214.i686.rpm</package>
+  <package label="perf-tools-rrdd-plugins" md5="02a8b6313c0adbbba9a71c0ba855f229" size="1708351" type="rpm">perf-tools-rrdd-plugins-0.1.2-55.i686.rpm</package>
+  <package label="perf-tools-rrd2csv" md5="accd7d4bc599737052387e68bc0e8a56" size="733655" type="rpm">perf-tools-rrd2csv-0.1.2-55.i686.rpm</package>
+</packages>
