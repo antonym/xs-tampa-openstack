@@ -61,7 +61,7 @@ rm /overlay.tgz
 
 # inject networking config for mgmt
 cat > "/etc/firstboot.d/data/management.conf" <<EOF
-LABEL='$MGMT_DEVICE'
+LABEL='eth0'
 MODE='static'
 IP='$PRIMARYIP'
 NETMASK='$PRIMARYNM'
