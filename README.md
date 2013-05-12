@@ -6,6 +6,5 @@ Drop the contents of the XenServer 6.1 Tampa ISO into citrix/tampa.
 
 Then add these two entries to XS-REPOSITORY-LIST:
 
-packages.openstack-supp
-packages.rrd-extras 
-
+    packages.openstack-supp
+    packages.rrd-extras 
