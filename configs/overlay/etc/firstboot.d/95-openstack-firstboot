@@ -35,9 +35,9 @@ start() {
         ISOSR=`xe sr-list name-label="Local ISO SR" --minimal`
         xe sr-param-set uuid=$ISOSR other-config:i18n-key=local-storage-iso
 
-	# Apply license
-	xe host-license-add host-uuid=$HOSTID license-file=$LICENSEFILE
-	rm $LICENSEFILE
+	# Apply license - specify license file above and uncomment once you have a legit license
+	# xe host-license-add host-uuid=$HOSTID license-file=$LICENSEFILE
+	# rm $LICENSEFILE
 
 	# Activate host metrics
 	xe host-param-add param-name=other-config uuid=$HOSTID rrd_update_interval=2
